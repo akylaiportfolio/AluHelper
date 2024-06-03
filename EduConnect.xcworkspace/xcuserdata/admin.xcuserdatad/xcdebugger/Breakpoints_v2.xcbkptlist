@@ -1,0 +1,1915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A1051BDF-9D74-4000-A389-F8BA61E9A717"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A81B8B4-C684-4742-B083-8D54098DFF5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/Home/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getGroup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0419B0E-F8EE-4B20-9D77-D962A217EC07"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/Home/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getGroup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E142A76F-5C1E-4409-A736-D29C4233F6A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/Home/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "getGroup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5A13858-E3BD-42CD-B922-73623F554BD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/DetailsOrder/DetailsOrderController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "setupController()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5A13858-E3BD-42CD-B922-73623F554BD9 - fae9f1eeb2a7d160"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.DetailsOrderController.setupController() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/DetailsOrder/DetailsOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "564">
+               </Location>
+               <Location
+                  uuid = "C5A13858-E3BD-42CD-B922-73623F554BD9 - fae9f1eeb2a7d160"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.DetailsOrderController.setupController() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/DetailsOrder/DetailsOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "C5A13858-E3BD-42CD-B922-73623F554BD9 - fae9f1eeb2a7d160"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.DetailsOrderController.setupController() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/DetailsOrder/DetailsOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+               <Location
+                  uuid = "C5A13858-E3BD-42CD-B922-73623F554BD9 - fae9f1eeb2a7d160"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.DetailsOrderController.setupController() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/DetailsOrder/DetailsOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "980">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15A6706A-4D38-40C4-9A55-31237330B7D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/DetailsOrder/DetailsOrderController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "setupController()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15A6706A-4D38-40C4-9A55-31237330B7D1 - fae9f1eeb2a7d181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.DetailsOrderController.setupController() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/DetailsOrder/DetailsOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "15A6706A-4D38-40C4-9A55-31237330B7D1 - fae9f1eeb2a7d181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.DetailsOrderController.setupController() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/DetailsOrder/DetailsOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "369E6B3C-8E1A-4BC8-8E3B-3C231F9AA4F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Services/UserServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
+            landmarkName = "getInfoModels(result:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "369E6B3C-8E1A-4BC8-8E3B-3C231F9AA4F9 - ac8f41185a20fbf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.UserServices.getInfoModels() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Services/UserServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "203"
+                  endingLineNumber = "203"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "369E6B3C-8E1A-4BC8-8E3B-3C231F9AA4F9 - 8c231e02ff0016bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in EduConnect.UserServices.getInfoModels(result: (Swift.Array&lt;EduConnect.InfoModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Services/UserServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "203"
+                  endingLineNumber = "203"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "369E6B3C-8E1A-4BC8-8E3B-3C231F9AA4F9 - 819bf14068779104"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; () in closure #1 (__C.FIRDataSnapshot) -&gt; () in EduConnect.UserServices.getInfoModels(result: (Swift.Array&lt;EduConnect.InfoModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Services/UserServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E25992A1-4BAF-4417-93A5-CF6730E078E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Services/UserServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "336"
+            endingLineNumber = "336"
+            landmarkName = "putInfoModel(_:result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AD15F53-D09D-4FD0-B91B-279D14DE50BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Services/UserServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "335"
+            endingLineNumber = "335"
+            landmarkName = "putInfoModel(_:result:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1AD15F53-D09D-4FD0-B91B-279D14DE50BD - 83d8f3db9cf363cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;, Swift.Optional&lt;__C.FIRDataSnapshot&gt;) -&gt; () in EduConnect.UserServices.putInfoModel(_: EduConnect.InfoModel, result: () -&gt; ()) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Services/UserServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "1AD15F53-D09D-4FD0-B91B-279D14DE50BD - eff2f338d5a8f26b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Error&gt;, __C.FIRDatabaseReference) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Error&gt;, Swift.Optional&lt;__C.FIRDataSnapshot&gt;) -&gt; () in EduConnect.UserServices.putInfoModel(_: EduConnect.InfoModel, result: () -&gt; ()) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Services/UserServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "1AD15F53-D09D-4FD0-B91B-279D14DE50BD - 83d8f3db9cf363cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;, Swift.Optional&lt;__C.FIRDataSnapshot&gt;) -&gt; () in EduConnect.UserServices.putInfoModel(_: EduConnect.InfoModel, result: () -&gt; ()) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Services/UserServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C9BC7EB-96E0-4960-8A81-4495C7427FFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Services/UserServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "695"
+            endingLineNumber = "695"
+            landmarkName = "asDictionary()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3C32FC3-01F2-4957-A079-05340AC2C634"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Services/UserServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "698"
+            endingLineNumber = "698"
+            landmarkName = "asDictionary()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92EC3DF8-550D-43D2-A602-604A269A3D90"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Services/UserServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "699"
+            endingLineNumber = "699"
+            landmarkName = "asDictionary()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE0DD121-14F8-4E4F-A47F-B21FED9C4FED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Services/UserServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "703"
+            endingLineNumber = "703"
+            landmarkName = "asDictionary()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "788D9DCE-F403-4EE8-B0A2-40F5BB75E6A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/DetailsInfo/DetailsInfoController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "setupSubViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC54D97D-71F3-405E-A68F-4A4028D09A0A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/Home/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "showCell()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC54D97D-71F3-405E-A68F-4A4028D09A0A - d805b0cd343895aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, EduConnect.NewsModel) -&gt; () in EduConnect.HomePresenter.showCell() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/Home/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+               <Location
+                  uuid = "FC54D97D-71F3-405E-A68F-4A4028D09A0A - d805b0cd343895aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, EduConnect.NewsModel) -&gt; () in EduConnect.HomePresenter.showCell() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/Home/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B7553B8-D4B0-4B0D-AE20-F54B15C19B97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/Home/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "showCell()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B7553B8-D4B0-4B0D-AE20-F54B15C19B97 - d805b0cd3438952e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, EduConnect.NewsModel) -&gt; () in EduConnect.HomePresenter.showCell() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/Home/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "9B7553B8-D4B0-4B0D-AE20-F54B15C19B97 - d805b0cd3438952e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, EduConnect.NewsModel) -&gt; () in EduConnect.HomePresenter.showCell() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/Home/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "820">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D25D14AF-6F59-460D-A16A-3B82FC89189E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/Home/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "showCell()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D25D14AF-6F59-460D-A16A-3B82FC89189E - d805b0cd3438950f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, EduConnect.NewsModel) -&gt; () in EduConnect.HomePresenter.showCell() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/Home/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "792">
+               </Location>
+               <Location
+                  uuid = "D25D14AF-6F59-460D-A16A-3B82FC89189E - d805b0cd3438950f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, EduConnect.NewsModel) -&gt; () in EduConnect.HomePresenter.showCell() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/Home/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "796">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7277AA53-7756-46C1-B082-E9D32A535B23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/Home/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "showCell()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "468AABF3-0E7C-4901-AD18-510F1B7B0767"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/Home/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "getNews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45C1AC87-C6CD-4DD1-9445-F7A24F1C685E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/Profile/ProfileController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "setupSubViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CA94810-98E7-412F-A268-A0FE6323C85A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/SendOrder/SendOrderController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "documentPicker(_:didPickDocumentsAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5CA94810-98E7-412F-A268-A0FE6323C85A - c4aa098f13c31ba3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "5CA94810-98E7-412F-A268-A0FE6323C85A - c4aa098f13c31ba3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "5CA94810-98E7-412F-A268-A0FE6323C85A - c4aa098f13c31861"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2C40178-BBBB-4843-AE89-22785D86E871"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/SendOrder/SendOrderController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "documentPicker(_:didPickDocumentsAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B2C40178-BBBB-4843-AE89-22785D86E871 - c4aa098f13c31b82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "B2C40178-BBBB-4843-AE89-22785D86E871 - c4aa098f13c31b82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "B2C40178-BBBB-4843-AE89-22785D86E871 - c4aa098f13c31b82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "B2C40178-BBBB-4843-AE89-22785D86E871 - c4aa098f13c31840"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "B2C40178-BBBB-4843-AE89-22785D86E871 - c4aa098f13c31840"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F80FAA84-9F1A-4ABF-BF0A-5FBCE72F962E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/SendOrder/SendOrderController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "documentPicker(_:didPickDocumentsAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F80FAA84-9F1A-4ABF-BF0A-5FBCE72F962E - c4aa098f13c31861"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "F80FAA84-9F1A-4ABF-BF0A-5FBCE72F962E - c4aa098f13c31861"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "F80FAA84-9F1A-4ABF-BF0A-5FBCE72F962E - c4aa098f13c31b82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "F80FAA84-9F1A-4ABF-BF0A-5FBCE72F962E - c4aa098f13c31b82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "F80FAA84-9F1A-4ABF-BF0A-5FBCE72F962E - c4aa098f13c31840"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "F80FAA84-9F1A-4ABF-BF0A-5FBCE72F962E - c4aa098f13c31840"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.SendOrderController.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/SendOrder/SendOrderController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D703F50E-53F3-4FB3-AEE8-5EEDBF63F424"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/Home/HomePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "showCell()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D703F50E-53F3-4FB3-AEE8-5EEDBF63F424 - 4b42997cc1d58a30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.HomePresenter.showCell() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/Home/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "2300">
+               </Location>
+               <Location
+                  uuid = "D703F50E-53F3-4FB3-AEE8-5EEDBF63F424 - d805b0cd34389550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, EduConnect.NewsModel) -&gt; () in EduConnect.HomePresenter.showCell() -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/Home/HomePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB5BCD02-20AD-4EBA-BC49-F98487D0E6A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Services/UserServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "527"
+            endingLineNumber = "527"
+            landmarkName = "getRooms(result:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB5BCD02-20AD-4EBA-BC49-F98487D0E6A7 - 772113551eb3ffe6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;, Swift.Optional&lt;__C.FIRDataSnapshot&gt;) -&gt; () in EduConnect.UserServices.getRooms(result: (Swift.Array&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Services/UserServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "EB5BCD02-20AD-4EBA-BC49-F98487D0E6A7 - 95dae435f241ca14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Error&gt;, Swift.Optional&lt;__C.FIRDataSnapshot&gt;) -&gt; () in EduConnect.UserServices.getRooms(result: (Swift.Array&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Services/UserServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "466"
+                  endingLineNumber = "466"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19C22D1D-7409-4E16-AE40-5129185DE25E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Services/UserServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "528"
+            endingLineNumber = "528"
+            landmarkName = "getRooms(result:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D8DBF42-D3B6-46C5-B4B0-9425FB455116"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Services/UserServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "putGroup(name:group:result:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D8DBF42-D3B6-46C5-B4B0-9425FB455116 - 37a8a7db956d5b5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EduConnect.UserServices.putGroup(name: Swift.String, group: EduConnect.GroupModel, result: () -&gt; ()) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Services/UserServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "5D8DBF42-D3B6-46C5-B4B0-9425FB455116 - 7c5a85db10867351"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;, __C.FIRDatabaseReference) -&gt; () in EduConnect.UserServices.putGroup(name: Swift.String, group: EduConnect.GroupModel, result: () -&gt; ()) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Services/UserServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "209"
+                  endingLineNumber = "209"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "946071CC-6224-4F10-A01A-C021F26B7CB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "946071CC-6224-4F10-A01A-C021F26B7CB9 - ece29d4b27e3deb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "2820">
+               </Location>
+               <Location
+                  uuid = "946071CC-6224-4F10-A01A-C021F26B7CB9 - ece29d4b27e3def3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2924">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE4B9A9A-3184-4C17-AF20-43464E7A06E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE4B9A9A-3184-4C17-AF20-43464E7A06E2 - ece29d4b27e3deb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "2820">
+               </Location>
+               <Location
+                  uuid = "AE4B9A9A-3184-4C17-AF20-43464E7A06E2 - ece29d4b27e3deb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "3040">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C033FE02-9886-479C-9047-2C8A724918D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C033FE02-9886-479C-9047-2C8A724918D1 - ece29d4b27e3e2f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+               <Location
+                  uuid = "C033FE02-9886-479C-9047-2C8A724918D1 - ece29d4b27e3e291"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C5EF619-130A-4462-AFF6-9D919A8F50DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7C5EF619-130A-4462-AFF6-9D919A8F50DB - ece29d4b27e3ded2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "2808">
+               </Location>
+               <Location
+                  uuid = "7C5EF619-130A-4462-AFF6-9D919A8F50DB - ece29d4b27e3ded2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "2768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "376D5B3C-33A7-45B5-9737-BBB95311B56E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "376D5B3C-33A7-45B5-9737-BBB95311B56E - ece29d4b27e3e147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "2004">
+               </Location>
+               <Location
+                  uuid = "376D5B3C-33A7-45B5-9737-BBB95311B56E - ece29d4b27e3e081"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "2108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C05BF77-6797-4DED-9751-DD8054D318D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C05BF77-6797-4DED-9751-DD8054D318D6 - ece29d4b27e3e147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "2004">
+               </Location>
+               <Location
+                  uuid = "3C05BF77-6797-4DED-9751-DD8054D318D6 - ece29d4b27e3e147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "2224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "775A4EB6-D5A4-4F27-9996-C20713D4640C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "775A4EB6-D5A4-4F27-9996-C20713D4640C - ece29d4b27e3e291"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1052">
+               </Location>
+               <Location
+                  uuid = "775A4EB6-D5A4-4F27-9996-C20713D4640C - ece29d4b27e3e291"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4605BDD2-D408-4949-909B-037B1EF92FB4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4605BDD2-D408-4949-909B-037B1EF92FB4 - ece29d4b27e3e315"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "4605BDD2-D408-4949-909B-037B1EF92FB4 - ece29d4b27e3e357"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3D1580C-148C-4204-8309-7D9C8DE86B95"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D3D1580C-148C-4204-8309-7D9C8DE86B95 - ece29d4b27e3e32a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+               <Location
+                  uuid = "D3D1580C-148C-4204-8309-7D9C8DE86B95 - ece29d4b27e3e32a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1532">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0755F9EE-5F8C-4344-B69E-05B60BD66426"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "545AA249-BB8B-4991-BC94-8955F6BFFFDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "545AA249-BB8B-4991-BC94-8955F6BFFFDC - ece29d4b27e3e2b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+               <Location
+                  uuid = "545AA249-BB8B-4991-BC94-8955F6BFFFDC - ece29d4b27e3e2b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63E9719A-E3CC-493B-A4C2-494A86A9ED4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63E9719A-E3CC-493B-A4C2-494A86A9ED4A - ece29d4b27e3dc0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "3624">
+               </Location>
+               <Location
+                  uuid = "63E9719A-E3CC-493B-A4C2-494A86A9ED4A - ece29d4b27e3dc0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "3584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38A100AF-C49A-4A7F-879E-680240C2F6CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38A100AF-C49A-4A7F-879E-680240C2F6CA - ece29d4b27e3dce3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "3640">
+               </Location>
+               <Location
+                  uuid = "38A100AF-C49A-4A7F-879E-680240C2F6CA - ece29d4b27e3dc2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "3740">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC2EE696-6C25-4B76-9249-6F59C7B8A986"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC2EE696-6C25-4B76-9249-6F59C7B8A986 - ece29d4b27e3dce3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "3640">
+               </Location>
+               <Location
+                  uuid = "AC2EE696-6C25-4B76-9249-6F59C7B8A986 - ece29d4b27e3dce3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "3856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54465455-37FB-46E7-94D1-44BE9E14E894"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "54465455-37FB-46E7-94D1-44BE9E14E894 - ece29d4b27e3dd67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "3788">
+               </Location>
+               <Location
+                  uuid = "54465455-37FB-46E7-94D1-44BE9E14E894 - ece29d4b27e3dd67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "3996">
+               </Location>
+               <Location
+                  uuid = "54465455-37FB-46E7-94D1-44BE9E14E894 - afcc3c85b064920d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (EduConnect.GroupModel) -&gt; () in closure #1 (Swift.Array&lt;EduConnect.GroupModel&gt;) -&gt; () in EduConnect.AddSchedulePresenter.putLesson(name: Swift.String, cabinet: Swift.String) -&gt; ()"
+                  moduleName = "EduConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/EduConnect/EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F76A91C-69CC-4F04-B893-9E7AE9E364E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D561E278-B3ED-4B19-B63B-BAE9A89493A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE1D9A11-2A1B-48DB-A3E0-C036E87107F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B70C219C-A52F-434D-B550-B15540A58B9F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/AddSchedule/AddSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "putLesson(name:cabinet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "343263AE-DE7A-4313-BA87-F05D430CADCD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/UpdateSchedule/UpdateSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85145601-37DE-4D22-951B-43A8B80F7B53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/UpdateSchedule/UpdateSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36933175-5529-4476-8ABE-8BFD380B5DC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/UpdateSchedule/UpdateSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81E7E412-6043-4E53-9865-2A1EA502BDBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/UpdateSchedule/UpdateSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "selectWeekend(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFA2FAAD-4237-492E-913E-47B5042DC9B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/UpdateSchedule/UpdateSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "selectWeekend(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D2F4376-E313-4B7F-B89B-BA4FA3A4B8C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/UpdateSchedule/UpdateSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "selectWeekend(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAF6949D-7C85-4448-9821-464257595FFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/UpdateSchedule/UpdateSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "selectWeekend(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70146B70-EB23-4374-ACE9-1513FCE5AC6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EduConnect/Screens/UpdateSchedule/UpdateSchedulePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "selectWeekend(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
